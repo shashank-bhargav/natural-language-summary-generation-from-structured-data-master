@@ -15,7 +15,7 @@ Requirements for training:
 </p> <br>
 
 ## Running the Code
-Process of using this code is slightly involved presently. 
+Process of using this code is slightly involved presently, 
 This will be addressed in further development (perhaps with collaboration).  
 
 #### 1. Preprocessing:
