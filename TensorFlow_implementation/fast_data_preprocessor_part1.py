@@ -1,6 +1,6 @@
 ''' 
     script for preprocessing the data from the files
-    This script is optimized for producing the processed data faster
+    This script is optimized for producing the processed data faster.
 '''
 from __future__ import print_function
 import numpy as np 
